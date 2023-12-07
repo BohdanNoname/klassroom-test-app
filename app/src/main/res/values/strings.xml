@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Klassroom Test App</string>
+    <string name="test_android">Test Android</string>
+    <string name="first_task">First Task</string>
+    <string name="second_task">Second Task</string>
+    <string name="action_search">Search</string>
+    <string name="test_string_header">Charlotte Perriand’s “La maison au bord de l’eau”</string>
+</resources>
